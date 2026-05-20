@@ -1,6 +1,4 @@
-# BSSE14XX Paint Maintenance Report
-
-> This repository report documents the fixes applied to the Swing paint project for the requested maintenance tasks. If you need a PDF submission, export this README to `BSSE14XX.pdf` from your editor or with a document converter.
+# BSSE1428 Paint Maintenance Report
 
 ## Summary of Work
 
@@ -255,12 +253,6 @@ Because this environment did not allow a terminal compile/run to complete during
 
 ### Overall Best Solution
 Across the tasks, the **GPT-4o-style fixes** were generally the best because they were minimal, targeted, and reduced the risk of breaking the existing Swing UI.
-
----
-
-## Export to PDF
-
-If you need the final submission as `BSSE14XX.pdf`, open this README in your editor and export/print it to PDF with that filename.
 
 
 
