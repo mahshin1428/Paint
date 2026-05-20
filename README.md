@@ -251,8 +251,4 @@ Because this environment did not allow a terminal compile/run to complete during
 - `Paint/edu/cmu/hcii/paint/LinePaint.java`
 - `README.md`
 
-### Overall Best Solution
-Across the tasks, the **GPT-4o-style fixes** were generally the best because they were minimal, targeted, and reduced the risk of breaking the existing Swing UI.
-
-
 
